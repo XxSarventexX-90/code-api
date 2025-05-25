@@ -3,6 +3,7 @@
 - These are the strings you can give to functions that take a `soundName` as input
 - If you want a random similar sound then you can remove the number from the sound name of your choice
 - If a sound isn't working then there might be an error in your console explaining why
+- Cock sounds are censored because cock is a swear word.
 
 `beep`
 `bow`
