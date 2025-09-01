@@ -24,7 +24,7 @@ Please use [our discord](https://discord.gg/vwMp5y25RX) to report any issues you
 - Global variable `thisPos` stores the position of the currently executing code block or press to code board.
 - You can use `api.log` or `console.log` for printing and debugging (they do the same thing).
 - You can use `Date.now()` instead of `api.now()` if you prefer, both return the time in milliseconds.
-- Comments like `/* comment */` work, but comments like `// comment` don't work right now.
+- Comments like `/* comment */` and `// comment` work.
 
 ## Examples
 
